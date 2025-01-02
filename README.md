@@ -3,7 +3,9 @@ Welcome to my GitHub!
 ---
 
 # Hi there, I'm Rodolfo 👋
-I'm a Junior Fullstack Developer, horror enthusiast, gym goer and gamer.
+From stacking shelves to working as a security guard, I've now swapped my badge for a keyboard and dived headfirst into the exhilarating world of programming. 🧑🏻‍💻
+
+Currently, I'm a Junior Fullstack Developer. When I'm not coding, you can find me indulging in my love for horror movies, hitting the gym, or gaming.
 
 # Let's connect
 Hit me up on [LinkedIn](https://www.linkedin.com/in/rodolfovreis) if you're at all interested in connecting or discussing opportunities!
